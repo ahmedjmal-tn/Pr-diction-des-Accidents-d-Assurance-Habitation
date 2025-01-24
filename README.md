@@ -48,5 +48,6 @@ L'objectif principal de ce projet est de prédire si un accident sera signalé (
      jupyter notebook projet.ipynb
      ```
 
-## Structure du Répertoire
+## Presentation
+https://docs.google.com/presentation/d/1b8i1FlI-h4Kv-PpKJc4hurK2IjKtZMUd/edit?usp=drive_link&ouid=111568998039075228445&rtpof=true&sd=true
 
